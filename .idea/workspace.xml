@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="181a1635-5ed6-48ce-bb13-1c17ca9ea34f" name="Default Changelist" comment="" />
+    <list default="true" id="181a1635-5ed6-48ce-bb13-1c17ca9ea34f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/k8sdemo/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/k8sdemo/readme.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +73,8 @@
         <entry file="file://$PROJECT_DIR$/k8sdemo/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="46">
-                <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+              <first_editor relative-caret-position="184">
+                <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -161,12 +163,12 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49919224" visible="true" weight="0.4110613" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49919224" visible="true" weight="0.4110613" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50080776" side_tool="true" weight="0.32884902" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -229,8 +231,8 @@
     <entry file="file://$PROJECT_DIR$/k8sdemo/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="46">
-            <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+          <first_editor relative-caret-position="184">
+            <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
